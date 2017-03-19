@@ -1,0 +1,416 @@
+﻿body{
+
+    background:white;
+
+}
+#imagem{
+
+    position:absolute;    
+    background:#F0F8FF;
+    width:1422px;
+    height:95px;
+    right:6%;
+    left:0%;
+    top:0%;
+    opacity:0.6;
+    
+}
+
+#dive{
+    background-color:#F0F8FF;
+    position:absolute;
+    width:350px;
+    height:350px;
+    right:35%;
+    top:30%;
+    opacity:0.8;
+  
+}
+
+
+
+
+
+#login{
+
+    position:absolute;
+    width:35px;
+    height:35px;
+    left:94.5%;
+    top:3%;
+    cursor: pointer;
+
+}
+
+
+
+#fundo {
+    position: absolute;
+    width: 1410.1px;
+    height:1155px;
+    top:0%;
+}
+
+
+
+
+
+
+
+
+
+
+
+#lblemail {
+
+    
+    position:absolute;
+    right:0%;
+    top:10%;
+    left:45%;
+    font-weight:bold;
+ 
+
+
+}
+
+#txtemail {
+    position: absolute;
+    width: 250px;
+    height: 20px;
+    left:14%;
+    top:15%;
+}
+
+
+
+#lblnome_usuario {
+
+    position:absolute;
+    right:0%;
+    top:25%;
+    left:35%;
+    font-weight:bold;
+}
+
+
+
+#txtnome_usuario {
+
+    position: absolute;
+    width: 250px;
+    height: 20px;
+    left:14%;
+    top:30%;
+}
+
+
+
+#lblsenha {
+
+    position:absolute;
+    right:0%;
+    top:40%;
+    left:45%;
+    font-weight:bold;
+}
+
+
+#senha {
+
+    position:absolute;
+    width:250px;
+    height:20px;
+    left:14%;
+    top:45%;
+    
+}
+
+
+
+
+
+
+
+
+
+#lblidade {
+
+    position:absolute;
+    right:0%;
+    top:55%;
+    left:45%;
+    font-weight:bold;
+}
+
+
+#txtidade {
+
+    position: absolute;
+    width: 250px;
+    height: 20px;
+    left:14%;
+    top:60%;
+}
+
+
+
+
+#criancada {
+
+    position:absolute;
+    width:1410px;
+    height:800px;
+    left:0.6%;
+    top:0%;
+    opacity:0.8;
+  
+}
+
+#logos {
+      
+    position:absolute;
+    width:155px;
+    height:90px;
+    left:5%;
+    top:0%;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Div4 {
+    position:absolute;
+    left:99%;
+    width:1px;
+    height:50px;
+    background:#000000;
+    top:3%;
+    opacity:0.2;
+   font-weight:bold
+}
+
+
+#Div5 {
+    position:absolute;
+    left:93%;
+    width:1px;
+    height:50px;
+    background:#000000;
+    top:3%;
+    opacity:0.2;
+   font-weight:bold
+}
+
+
+#titulo {
+    font-weight:bold;
+    position:absolute;
+    top:110%;
+    left:43%;
+    font-size:40px;
+    color:#FFFFFF;
+}
+
+
+#sobre {
+
+    position:absolute;
+    top:120%;
+    font-size:15px;
+    color:#FFFFFF;
+    width:900px;
+    left:15%;
+ 
+
+}
+
+
+
+
+input[type="submit"],
+	input[type="reset"],
+	input[type="button"],
+	button,
+	.button {
+    position:absolute;
+	background-color: transparent;
+	box-shadow: inset 0 0  1px #000000;
+    color:#000000;
+	border-radius:5px;
+	border: 0;
+	cursor: pointer;
+	display: inline-block;
+	font-size: .90em;
+	font-weight: 200;
+	
+	line-height: 2em;
+	text-align: center;
+	text-decoration: none;
+    font-weight:bold;
+    width:90px;
+    left:37%;
+    top:75%;
+    height:30px;
+    
+    
+
+	}
+
+	input[type="submit"]:hover,
+	input[type="reset"]:hover,
+	input[type="button"]:hover,
+	button:hover,
+	.button:hover {
+	background-color:#B0C4DE;
+	}
+
+	input[type="submit"]:active,
+	input[type="reset"]:active,
+	input[type="button"]:active,
+	button:active,
+	.button:active {
+	background-color:#B0C4DE ;
+	}
+
+	input[type="submit"].icon,
+	input[type="reset"].icon,
+	input[type="button"].icon,
+	button.icon,
+	.button.icon {
+	padding-left: 1.35em;
+	}
+
+	input[type="submit"].icon:before,
+	input[type="reset"].icon:before,
+	input[type="button"].icon:before,
+	button.icon:before,
+	.button.icon:before {
+	margin-right: 0.5em;
+	}
+
+	input[type="submit"].fit,
+	input[type="reset"].fit,
+	input[type="button"].fit,
+	button.fit,
+	.button.fit {
+	display: block;
+	margin: 0 0 1em 0;
+	width: 100%;
+	}
+
+	input[type="submit"].small,
+	input[type="reset"].small,
+	input[type="button"].small,
+	button.small,
+	.button.small {
+	font-size: 0.8em;
+	}
+
+	input[type="submit"].big,
+	input[type="reset"].big,
+	input[type="button"].big,
+	button.big,
+	.button.big {
+	font-size: 1.35em;
+	}
+
+	input[type="submit"].alt,
+	input[type="reset"].alt,
+	input[type="button"].alt,
+	button.alt,
+	.button.alt {
+	background-color: #6495ED;
+	box-shadow: inset 0 0 0 3px #FFF;
+	color: #fff !important;
+	}
+
+	input[type="submit"].alt:hover,
+	input[type="reset"].alt:hover,
+	input[type="button"].alt:hover,
+	button.alt:hover,
+	.button.alt:hover {
+	background-color: #7ec89e;
+	}
+
+	input[type="submit"].alt:active,
+	input[type="reset"].alt:active,
+	input[type="button"].alt:active,
+	button.alt:active,
+	.button.alt:active {
+	background-color: #cd853f;
+	}
+
+	input[type="submit"].alt.icon:before,
+	input[type="reset"].alt.icon:before,
+	input[type="button"].alt.icon:before,
+	button.alt.icon:before,
+	.button.alt.icon:before {
+	color: #bbb;
+	}
+
+	input[type="submit"].special,
+	input[type="reset"].special,
+	input[type="button"].special,
+	button.special,
+	.button.special {
+	background-color: #6495ED;
+	color: #ffffff !important;
+	}
+
+	input[type="submit"].special:hover,
+	input[type="reset"].special:hover,
+	input[type="button"].special:hover,
+	button.special:hover,
+	.button.special:hover {
+	background-color: #6495ED;
+	}
+
+	input[type="submit"].special:active,
+	input[type="reset"].special:active,
+	input[type="button"].special:active,
+	button.special:active,
+	.button.special:active {
+	background-color:#6495ED;
+	}
+
+	input[type="submit"].disabled, input[type="submit"]:disabled,
+	input[type="reset"].disabled,
+	input[type="reset"]:disabled,
+	input[type="button"].disabled,
+	input[type="button"]:disabled,
+	button.disabled,
+	button:disabled,
+	.button.disabled,
+	.button:disabled {
+	background-color: #9a9a9a !important;
+	box-shadow: inset 0 -0.15em 0 0 rgba(0, 0, 0, 0.15);
+	color: #fff !important;
+	cursor: default;
+	opacity: 0.25;
+	}
+
+	@media screen and (max-width: 480px) {
+
+	input[type="submit"],
+	input[type="reset"],
+	input[type="button"],
+	button,
+	.button {
+	padding: 0;
+	width: 100%;
+	}
+
+	}

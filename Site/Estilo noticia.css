@@ -1,0 +1,394 @@
+﻿body {
+}
+
+#imagem{
+
+    position:absolute;    
+    background:#F0F8FF;
+    width:1422px;
+    height:95px;
+    right:6%;
+    left:0%;
+    top:0%;
+    opacity:0.6;
+    
+}
+
+#logos {
+      
+    position:absolute;
+    width:155px;
+    height:90px;
+    left:5%;
+    top:0%;
+    
+
+}
+
+#logout{
+
+    position:absolute;
+    width:35px;
+    height:35px;
+    left:84%;
+    top:3%;
+    cursor: pointer;
+
+}
+
+#conf{
+
+    position:absolute;
+    width:35px;
+    height:35px;
+    left:92%;
+    top:3%;
+    cursor: pointer;
+    
+
+}
+
+#notícia{
+
+    position:absolute;
+    width:35px;
+    height:35px;
+    left:76%;
+    top:3%;
+    cursor: pointer;
+    
+
+}
+
+
+#fundo {
+    position: absolute;
+    width: 1410px;
+    height:1800px;
+    top:0%;
+}
+
+
+
+
+#Div3 {
+    position:absolute;
+    left:74%;
+    width:1px;
+    height:50px;
+    background:#000000;
+    top:3%;
+    opacity:0.2;
+    font-weight:bold
+}
+
+
+#Div4 {
+    position:absolute;
+    left:82%;
+    width:1px;
+    height:50px;
+    background:#000000;
+    top:3%;
+    opacity:0.2;
+   font-weight:bold
+}
+
+
+#Div5 {
+    position:absolute;
+    left:90%;
+    width:1px;
+    height:50px;
+    background:#000000;
+    top:3%;
+    opacity:0.2;
+    font-weight:bold
+}
+
+#h1 {
+    
+    position: absolute;
+    font-size:40px;
+    top:15%;
+    color:black;
+    left:5%;
+
+}
+
+#Quézia {
+    
+    position: absolute;
+    width:40px;
+    height:40px;
+    top:21%;
+    font-weight:bold;
+    color:black;
+    left:15.5%;
+}
+
+
+#mariwne {
+    
+    width:950px;
+    height:190px;
+    top:40%;
+    left:18%;
+    position: absolute;
+    background-color:white;
+    opacity:0.4;
+
+
+
+}
+
+#coxinha {
+    width:250px;
+    height:150px;
+    top:42%;
+    left:20%;
+    position: absolute;
+}
+
+#luis {
+    font-size:20px;
+    top:40%;
+    left:40%;
+    position: absolute;
+    font-weight:bold
+
+}
+
+#james {
+    font-size:20px;
+    top:46%;
+    left:40%;
+    position: absolute;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#samara {
+     width:950px;
+    height:190px;
+    top:68%;
+    left:18%;
+    position: absolute;
+    background-color:white;
+    opacity:0.4;
+
+
+
+}
+
+#risólio {
+     width:250px;
+    height:150px;
+    top:70%;
+    left:20%;
+    position: absolute;
+}
+
+#helena {
+    font-size:20px;
+    top:69%;
+    left:40%;
+    position: absolute;
+    font-weight:bold
+}
+
+
+#olá {
+     font-size:20px;
+    top:75%;
+    left:40%;
+    position: absolute;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#melissa {
+    width:950px;
+    height:190px;
+    top:96%;
+    left:18%;
+    position: absolute;
+    background-color:white;
+    opacity:0.4;
+
+}
+
+#pastel {
+    width:250px;
+    height:150px;
+    top:98%;
+    left:20%;
+    position: absolute;
+}
+
+#jullyana {
+    font-size:20px;
+    top:97%;
+    left:40%;
+    position: absolute;
+    font-weight:bold
+}
+
+#mundo {
+    font-size:20px;
+    top:103%;
+    left:40%;
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#yara {
+    width:983px;
+    height:190px;
+    top:124%;
+    left:18%;
+    position: absolute;
+    background-color:white;
+    opacity:0.4;
+}
+
+#quibe {
+     width:250px;
+    height:150px;
+    top:126%;
+    left:20%;
+    position: absolute;
+}
+
+
+#thayná {
+    font-size:20px;
+    top:128%;
+    left:40%;
+    position: absolute;
+    font-weight:bold
+}
+
+#ele {
+     font-size:20px;
+    top:134%;
+    left:40%;
+    position: absolute;
+}
+
+
+
+
+
+
+#talita {
+     width:983px;
+    height:190px;
+    top:152%;
+    left:18%;
+    position: absolute;
+    background-color:white;
+    opacity:0.4;
+}
+
+#joelho {
+      width:250px;
+    height:150px;
+    top:154%;
+    left:20%;
+    position: absolute;
+}
+
+#kaio {
+     font-size:20px;
+    top:154%;
+    left:40%;
+    position: absolute;
+    font-weight:bold
+}
+
+#nao {
+     font-size:20px;
+    top:160%;
+    left:40%;
+    position: absolute;
+}
+
+
+
+
+
+
+#juliana {
+      width:1060px;
+    height:190px;
+    top:180%;
+    left:18%;
+    position: absolute;
+    background-color:white;
+    opacity:0.4;
+}
+
+#enroladinho {
+      width:250px;
+    height:150px;
+    top:182%;
+    left:20%;
+    position: absolute;
+}
+
+#izadora {
+     font-size:20px;
+    top:183%;
+    left:40%;
+    position: absolute;
+    font-weight:bold
+}
+
+#ela {
+    font-size:20px;
+    top:189%;
+    left:40%;
+    position: absolute;
+}
+}
+

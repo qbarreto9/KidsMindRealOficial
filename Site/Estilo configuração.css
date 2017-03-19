@@ -1,0 +1,228 @@
+﻿body {
+}
+#fundo {
+    position: absolute;
+    width: 1410px;
+    height:700px;
+    top:0%;
+}
+
+#imagem{
+
+    position:absolute;    
+    background:#F0F8FF;
+    width:1422px;
+    height:95px;
+    right:6%;
+    left:0%;
+    top:0%;
+    opacity:0.6;
+    
+}
+
+#logos {
+      
+    position:absolute;
+    width:155px;
+    height:90px;
+    left:5%;
+    top:0%;
+    
+
+}
+
+#logout{
+
+    position:absolute;
+    width:35px;
+    height:35px;
+    left:84%;
+    top:3%;
+    cursor: pointer;
+
+}
+
+#conf{
+
+    position:absolute;
+    width:35px;
+    height:35px;
+    left:92%;
+    top:3%;
+    cursor: pointer;
+    
+
+}
+
+#notícia{
+
+    position:absolute;
+    width:35px;
+    height:35px;
+    left:76%;
+    top:3%;
+    cursor: pointer;
+    
+
+}
+
+#Div3 {
+    position:absolute;
+    left:74%;
+    width:1px;
+    height:50px;
+    background:#000000;
+    top:3%;
+    opacity:0.2;
+    font-weight:bold
+}
+
+
+#Div4 {
+    position:absolute;
+    left:82%;
+    width:1px;
+    height:50px;
+    background:#000000;
+    top:3%;
+    opacity:0.2;
+   font-weight:bold
+}
+
+
+#Div5 {
+    position:absolute;
+    left:90%;
+    width:1px;
+    height:50px;
+    background:#000000;
+    top:3%;
+    opacity:0.2;
+    font-weight:bold
+}
+
+#h1 {
+    
+    position: absolute;
+    font-size:40px;
+    top:15%;
+    color:black;
+    left:5%;
+
+}
+
+#Quézia {
+    
+    position: absolute;
+    width:40px;
+    height:40px;
+    top:21%;
+    font-weight:bold;
+    color:black;
+    left:21%;
+}
+
+
+#p1 {
+    position: absolute;
+    font-size:24.5px;
+    top:35%;
+    color:black;
+    left:10%;
+
+}
+
+
+#p2 {
+    position: absolute;
+    font-size:24.5px;
+    top:50%;
+    color:black;
+    left:10%;
+}
+
+#p3 {
+     position: absolute;
+    font-size:24.5px;
+    top:65%;
+    color:black;
+    left:10%;
+}
+
+#p4 {
+     position: absolute;
+    font-size:24.5px;
+    top:80%;
+    color:black;
+    left:10%;
+}
+
+
+
+
+
+#user {
+    position: absolute;
+    width:45px;
+    height:45px;
+    top:36%;
+    color:black;
+    left:27%;
+    cursor: pointer;
+    
+
+
+}
+
+
+#delete {
+   
+     position: absolute;
+   width:30px;
+    height:30px;
+    top:68%;
+    color:black;
+    left:22%;
+    cursor: pointer;
+    
+}
+
+#sing {
+    position: absolute;
+    width:40px;
+    height:40px;
+    top:82%;
+    color:black;
+    left:20%;
+    cursor: pointer;
+    
+
+}
+
+
+#Button1 {
+
+    position: absolute;
+    width:53px;
+    height:25px;
+    top:54.5%;
+    color:black;
+    left:37%;
+    cursor: pointer;
+    border-radius:10px;
+
+
+}
+
+#txtpublicação {
+    position: absolute;
+    width:200px;
+    height:30px;
+    left:21.5%;
+    top:54%;
+    opacity:0.8;
+   border-radius:10px;
+
+
+}
+
